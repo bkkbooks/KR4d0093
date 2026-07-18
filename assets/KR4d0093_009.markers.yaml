@@ -532,6 +532,7 @@ markers:
   - {type: variant, offset: 1320, length: 1, content: 籟, SBCK: 􅄜}
   - {type: punctuation, offset: 1322, content: (, id: KR4d0093_krp_009-bkkpn1}
   - {type: variant, offset: 1322, length: 0, content: '', WYG: 姿}
+  - {type: voice, offset: 1322, length: 3, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 1323, content: <, id: KR4d0093_krp_009-bkkkrnonc1}
   - {type: variant, offset: 1323, length: 2, content: 折姿, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1324, content: t="33", id: KR4d0093_krp_009-bkkkrnonc2}
@@ -605,6 +606,7 @@ markers:
   - {type: line-break, offset: 1513, content: '', id: KR4d0093_SBCK_009-5a03}
   - {type: punctuation, offset: 1522, content: (, id: KR4d0093_krp_009-bkkpn4}
   - {type: variant, offset: 1522, length: 0, content: '', WYG: 澤民自號}
+  - {type: voice, offset: 1522, length: 9, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 1526, content: <, id: KR4d0093_krp_009-bkkkrnonc4}
   - {type: variant, offset: 1526, length: 5, content: 折澤民自号, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1527, content: t="33", id: KR4d0093_krp_009-bkkkrnonc5}
@@ -921,6 +923,7 @@ markers:
   - {type: indent, offset: 2369, content: 　　　, id: KR4d0093_krp_009-bkkind28}
   - {type: punctuation, offset: 2374, content: (, id: KR4d0093_krp_009-bkkpn7}
   - {type: variant, offset: 2374, length: 11, content: 部􅓵其𣑽行作此以贈之折, WYG: ''}
+  - {type: voice, offset: 2374, length: 22, name: note, id: n3}
   - {type: variant, offset: 2377, length: 1, content: 𣑽, SBCK: 􅆊}
   - {type: 'kr:non-cjk', offset: 2384, content: <, id: KR4d0093_krp_009-bkkkrnonc7}
   - {type: 'kr:non-cjk', offset: 2385, content: t="33", id: KR4d0093_krp_009-bkkkrnonc8}
@@ -1190,6 +1193,7 @@ markers:
   - {type: variant, offset: 3129, length: 1, content: 𥘉, SBCK: 􅀄}
   - {type: variant, offset: 3129, length: 8, content: 𥘉化老師手植之折, WYG: 初}
   - {type: punctuation, offset: 3130, content: (, id: KR4d0093_krp_009-bkkpn10}
+  - {type: voice, offset: 3130, length: 13, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 3136, content: <, id: KR4d0093_krp_009-bkkkrnonc10}
   - {type: 'kr:non-cjk', offset: 3137, content: t="33", id: KR4d0093_krp_009-bkkkrnonc11}
   - {type: punctuation, offset: 3137, content: /, id: KR4d0093_krp_009-bkkpn11}
@@ -1303,4 +1307,4 @@ markers:
 
       ', id: KR4d0093_krp_009-bkkkrnewl206}
   back: []
-hash: sha256:e854d43affb7944b4f47245366503034bb34db52b06c93f8d08a49e5d6d6af92
+hash: sha256:c3f01e81c15fdc96607aa59a5001bb7b989c1093ad61dc3defd1f27ef4b5b3aa

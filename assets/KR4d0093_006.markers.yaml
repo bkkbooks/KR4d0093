@@ -831,6 +831,7 @@ markers:
   - {type: indent, offset: 2155, content: 　　　, id: KR4d0093_krp_006-bkkind18}
   - {type: punctuation, offset: 2161, content: (, id: KR4d0093_krp_006-bkkpn1}
   - {type: variant, offset: 2161, length: 3, content: 云折蘇, WYG: 蘓}
+  - {type: voice, offset: 2161, length: 19, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 2162, content: <, id: KR4d0093_krp_006-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 2163, content: t="33", id: KR4d0093_krp_006-bkkkrnonc2}
   - {type: punctuation, offset: 2163, content: /, id: KR4d0093_krp_006-bkkpn2}
@@ -885,6 +886,7 @@ markers:
   - {type: substitution, offset: 2342, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 2348, content: (, id: KR4d0093_krp_006-bkkpn4}
   - {type: variant, offset: 2348, length: 10, content: 公禆余継和輙次元韻折, WYG: ''}
+  - {type: voice, offset: 2348, length: 19, name: note, id: n2}
   - {type: substitution, offset: 2351, original: 継, replacement: 繼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20649}}
   - {type: substitution, offset: 2353, original: 輙, replacement: 輒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18316}}
   - {type: 'kr:non-cjk', offset: 2357, content: <, id: KR4d0093_krp_006-bkkkrnonc4}
@@ -1123,6 +1125,7 @@ markers:
   - {type: indent, offset: 2947, content: 　　　, id: KR4d0093_krp_006-bkkind26}
   - {type: punctuation, offset: 2951, content: (, id: KR4d0093_krp_006-bkkpn7}
   - {type: variant, offset: 2951, length: 17, content: 把五言一章景文巳和之復使余継其後折, WYG: ''}
+  - {type: voice, offset: 2951, length: 33, name: note, id: n3}
   - {type: substitution, offset: 2964, original: 継, replacement: 繼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20649}}
   - {type: 'kr:non-cjk', offset: 2967, content: <, id: KR4d0093_krp_006-bkkkrnonc7}
   - {type: 'kr:non-cjk', offset: 2968, content: t="33", id: KR4d0093_krp_006-bkkkrnonc8}
@@ -1259,6 +1262,7 @@ markers:
   - {type: indent, offset: 3343, content: 　　　, id: KR4d0093_krp_006-bkkind29}
   - {type: punctuation, offset: 3346, content: (, id: KR4d0093_krp_006-bkkpn10}
   - {type: variant, offset: 3346, length: 0, content: '', WYG: 蘓翰林同馬仲玉提刑過訪}
+  - {type: voice, offset: 3346, length: 23, name: note, id: n4}
   - {type: page-break, offset: 3351, content: '', id: KR4d0093_WYG_006-13b, image: WYG1116/WYG1116-0046b.png}
   - {type: variant, offset: 3356, length: 13, content: 之折蘇翰林司馬中玉提刑過訪, WYG: ''}
   - {type: 'kr:non-cjk', offset: 3357, content: <, id: KR4d0093_krp_006-bkkkrnonc10}
@@ -1309,4 +1313,4 @@ markers:
   - {type: page-break, offset: 3465, content: '', id: KR4d0093_WYG_006-14a, image: WYG1116/WYG1116-0046c.png}
   - {type: page-break, offset: 3465, content: '', id: KR4d0093_WYG_006-14b, image: WYG1116/WYG1116-0046d.png}
   back: []
-hash: sha256:d4c8c3da54d61fa9dd5290a028f4ed3c4b4487e84b8c3eb66c5bf18dbc42f7d3
+hash: sha256:f7fa06a23a60d76d9fab1fda8e34f6cc3087f24cc66b06661063027adebebce9

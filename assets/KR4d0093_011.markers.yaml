@@ -639,6 +639,7 @@ markers:
   - {type: line-break, offset: 1564, content: '', id: KR4d0093_SBCK_011-5a05}
   - {type: punctuation, offset: 1568, content: (, id: KR4d0093_krp_011-bkkpn1}
   - {type: variant, offset: 1568, length: 0, content: '', WYG: 定武人謂公下車}
+  - {type: voice, offset: 1568, length: 15, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 1575, content: <, id: KR4d0093_krp_011-bkkkrnonc1}
   - {type: variant, offset: 1575, length: 8, content: 折定武人謂公下車, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1576, content: t="33", id: KR4d0093_krp_011-bkkkrnonc2}
@@ -659,6 +660,7 @@ markers:
   - {type: substitution, offset: 1614, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 1618, content: (, id: KR4d0093_krp_011-bkkpn4}
   - {type: variant, offset: 1618, length: 4, content: 月辯才折, WYG: ''}
+  - {type: voice, offset: 1618, length: 7, name: note, id: n2}
   - {type: substitution, offset: 1619, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: 'kr:non-cjk', offset: 1621, content: <, id: KR4d0093_krp_011-bkkkrnonc4}
   - {type: 'kr:non-cjk', offset: 1622, content: t="33", id: KR4d0093_krp_011-bkkkrnonc5}
@@ -683,6 +685,7 @@ markers:
   - {type: variant, offset: 1669, length: 1, content: 隄, WYG: 堤}
   - {type: punctuation, offset: 1674, content: (, id: KR4d0093_krp_011-bkkpn7}
   - {type: variant, offset: 1674, length: 0, content: '', WYG: 西湖新堤六}
+  - {type: voice, offset: 1674, length: 11, name: note, id: n3}
   - {type: substitution, offset: 1678, original: 剏, replacement: 創, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16373}}
   - {type: 'kr:non-cjk', offset: 1679, content: <, id: KR4d0093_krp_011-bkkkrnonc7}
   - {type: variant, offset: 1679, length: 6, content: 折西涬新隄六, WYG: ''}
@@ -758,6 +761,7 @@ markers:
   - {type: line-break, offset: 1821, content: '', id: KR4d0093_SBCK_011-5b08}
   - {type: punctuation, offset: 1825, content: (, id: KR4d0093_krp_011-bkkpn10}
   - {type: variant, offset: 1825, length: 0, content: '', WYG: 公生平出䖏多與樂天同樂天在杭}
+  - {type: voice, offset: 1825, length: 29, name: note, id: n4}
   - {type: variant, offset: 1827, length: 1, content: 葉, WYG: 築}
   - {type: variant, offset: 1828, length: 1, content: 隄, WYG: 堤}
   - {type: variant, offset: 1829, length: 1, content: 爲, WYG: 為}
@@ -784,6 +788,7 @@ markers:
   - {type: substitution, offset: 1878, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 1882, content: (, id: KR4d0093_krp_011-bkkpn13}
   - {type: variant, offset: 1882, length: 17, content: 一夕夢泗洲大聖來别云將送蘇某過海折, WYG: ''}
+  - {type: voice, offset: 1882, length: 65, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 1898, content: <, id: KR4d0093_krp_011-bkkkrnonc13}
   - {type: 'kr:non-cjk', offset: 1899, content: t="33", id: KR4d0093_krp_011-bkkkrnonc14}
   - {type: punctuation, offset: 1899, content: /, id: KR4d0093_krp_011-bkkpn14}
@@ -1007,6 +1012,7 @@ markers:
   - {type: line-break, offset: 2419, content: '', id: KR4d0093_SBCK_011-7a08}
   - {type: punctuation, offset: 2433, content: (, id: KR4d0093_krp_011-bkkpn19}
   - {type: variant, offset: 2433, length: 0, content: '', WYG: 方平五世祖}
+  - {type: voice, offset: 2433, length: 11, name: note, id: n6}
   - {type: 'kr:non-cjk', offset: 2438, content: <, id: KR4d0093_krp_011-bkkkrnonc19}
   - {type: variant, offset: 2438, length: 6, content: 折方平五丗祖, WYG: ''}
   - {type: 'kr:non-cjk', offset: 2439, content: t="33", id: KR4d0093_krp_011-bkkkrnonc20}
@@ -1054,6 +1060,7 @@ markers:
   - {type: line-break, offset: 2514, content: '', id: KR4d0093_SBCK_011-7b03}
   - {type: indent, offset: 2514, content: 　　　, id: KR4d0093_krp_011-bkkind27}
   - {type: punctuation, offset: 2517, content: (, id: KR4d0093_krp_011-bkkpn22}
+  - {type: voice, offset: 2517, length: 7, name: note, id: n7}
   - {type: substitution, offset: 2518, original: 寜, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19886}}
   - {type: punctuation, offset: 2524, content: ), id: KR4d0093_krp_011-bkkpn23}
   - {type: 'kr:newline', offset: 2524, content: '
@@ -1079,6 +1086,7 @@ markers:
   - {type: line-break, offset: 2576, content: '', id: KR4d0093_SBCK_011-7b07}
   - {type: punctuation, offset: 2580, content: (, id: KR4d0093_krp_011-bkkpn24}
   - {type: variant, offset: 2580, length: 0, content: '', WYG: 故相范忠宣韓持國滕達道}
+  - {type: voice, offset: 2580, length: 22, name: note, id: n8}
   - {type: variant, offset: 2589, length: 14, content: 厚折故相范忠宣韓待國滕達道甞, WYG: 嘗}
   - {type: 'kr:non-cjk', offset: 2590, content: <, id: KR4d0093_krp_011-bkkkrnonc22}
   - {type: 'kr:non-cjk', offset: 2591, content: t="33", id: KR4d0093_krp_011-bkkkrnonc23}
@@ -1287,6 +1295,7 @@ markers:
   - {type: punctuation, offset: 3135, content: (, id: KR4d0093_krp_011-bkkpn27}
   - {type: variant, offset: 3135, length: 3, content: 岀研折, WYG: ''}
   - {type: substitution, offset: 3135, original: 岀, replacement: 出, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19478}}
+  - {type: voice, offset: 3135, length: 5, name: note, id: n9}
   - {type: 'kr:non-cjk', offset: 3137, content: <, id: KR4d0093_krp_011-bkkkrnonc25}
   - {type: 'kr:non-cjk', offset: 3138, content: t="33", id: KR4d0093_krp_011-bkkkrnonc26}
   - {type: punctuation, offset: 3138, content: /, id: KR4d0093_krp_011-bkkpn28}
@@ -1330,6 +1339,7 @@ markers:
   - {type: variant, offset: 3231, length: 1, content: 余, WYG: 餘}
   - {type: punctuation, offset: 3233, content: (, id: KR4d0093_krp_011-bkkpn30}
   - {type: variant, offset: 3233, length: 0, content: '', WYG: 時孝孫有}
+  - {type: voice, offset: 3233, length: 9, name: note, id: n10}
   - {type: 'kr:non-cjk', offset: 3237, content: <, id: KR4d0093_krp_011-bkkkrnonc28}
   - {type: variant, offset: 3237, length: 6, content: 折時孝孫有㳺, WYG: 逰}
   - {type: 'kr:non-cjk', offset: 3238, content: t="33", id: KR4d0093_krp_011-bkkkrnonc29}
@@ -1378,6 +1388,7 @@ markers:
   - {type: page-break, offset: 3305, content: '', id: KR4d0093_WYG_011-13b, image: WYG1116/WYG1116-0081d.png}
   - {type: punctuation, offset: 3313, content: (, id: KR4d0093_krp_011-bkkpn33}
   - {type: variant, offset: 3313, length: 9, content: 此軒實黃魯直名之折, WYG: ''}
+  - {type: voice, offset: 3313, length: 18, name: note, id: n11}
   - {type: 'kr:non-cjk', offset: 3321, content: <, id: KR4d0093_krp_011-bkkkrnonc31}
   - {type: 'kr:non-cjk', offset: 3322, content: t="33", id: KR4d0093_krp_011-bkkkrnonc32}
   - {type: punctuation, offset: 3322, content: /, id: KR4d0093_krp_011-bkkpn34}
@@ -1442,4 +1453,4 @@ markers:
 
       ', id: KR4d0093_krp_011-bkkkrnewl215}
   back: []
-hash: sha256:6f44a37f1a1d72db884317f32d3ba203eab016626215250493ae8fed8a4e413a
+hash: sha256:1fa0aff9f21b3383f908ca289c26f8afec297edc04a1a8ace7782bb33595bc5c

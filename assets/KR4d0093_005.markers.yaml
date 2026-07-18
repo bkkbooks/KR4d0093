@@ -835,6 +835,7 @@ markers:
   - {type: punctuation, offset: 2074, content: (, id: KR4d0093_krp_005-bkkpn1}
   - {type: variant, offset: 2074, length: 6, content: 㑹於太平觀折, WYG: ''}
   - {type: substitution, offset: 2074, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
+  - {type: voice, offset: 2074, length: 12, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 2079, content: <, id: KR4d0093_krp_005-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 2080, content: t="33", id: KR4d0093_krp_005-bkkkrnonc2}
   - {type: punctuation, offset: 2080, content: /, id: KR4d0093_krp_005-bkkpn2}
@@ -908,6 +909,7 @@ markers:
   - {type: substitution, offset: 2282, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 2284, content: (, id: KR4d0093_krp_005-bkkpn4}
   - {type: variant, offset: 2284, length: 9, content: 神林浦因以詩寄之折, WYG: ''}
+  - {type: voice, offset: 2284, length: 18, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 2292, content: <, id: KR4d0093_krp_005-bkkkrnonc4}
   - {type: 'kr:non-cjk', offset: 2293, content: t="33", id: KR4d0093_krp_005-bkkkrnonc5}
   - {type: punctuation, offset: 2293, content: /, id: KR4d0093_krp_005-bkkpn5}
@@ -948,6 +950,7 @@ markers:
   - {type: page-break, offset: 2358, content: '', id: KR4d0093_WYG_005-10b, image: WYG1116/WYG1116-0039b.png}
   - {type: punctuation, offset: 2367, content: (, id: KR4d0093_krp_005-bkkpn7}
   - {type: variant, offset: 2367, length: 10, content: 觀子固舎人題名一首折, WYG: ''}
+  - {type: voice, offset: 2367, length: 20, name: note, id: n3}
   - {type: substitution, offset: 2370, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
   - {type: 'kr:non-cjk', offset: 2376, content: <, id: KR4d0093_krp_005-bkkkrnonc7}
   - {type: 'kr:non-cjk', offset: 2377, content: t="33", id: KR4d0093_krp_005-bkkkrnonc8}
@@ -1058,4 +1061,4 @@ markers:
 
       ', id: KR4d0093_krp_005-bkkkrnewl172}
   back: []
-hash: sha256:004853c4e3683073abd8b229ab1f05ac1586c18cc165f83cbc41320bb1d295ef
+hash: sha256:67eb8cbcf73279f583a1d86a9863a68f5d53ea1d2bb1d115ed1822e29487553b

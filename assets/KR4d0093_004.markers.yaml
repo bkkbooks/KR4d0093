@@ -232,6 +232,7 @@ markers:
   - {type: indent, offset: 502, content: 　　　, id: KR4d0093_krp_004-bkkind9}
   - {type: punctuation, offset: 508, content: (, id: KR4d0093_krp_004-bkkpn1}
   - {type: variant, offset: 508, length: 0, content: '', WYG: 云長淮秋色清曠順風}
+  - {type: voice, offset: 508, length: 19, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 517, content: <, id: KR4d0093_krp_004-bkkkrnonc1}
   - {type: variant, offset: 517, length: 10, content: 折云長淮秋色清曠順風, WYG: ''}
   - {type: 'kr:non-cjk', offset: 518, content: t="33", id: KR4d0093_krp_004-bkkkrnonc2}
@@ -469,6 +470,7 @@ markers:
   - {type: indent, offset: 1063, content: 　　　, id: KR4d0093_krp_004-bkkind15}
   - {type: punctuation, offset: 1069, content: (, id: KR4d0093_krp_004-bkkpn4}
   - {type: variant, offset: 1069, length: 0, content: '', WYG: 少㳺與余回載因㳺恵山覽唐處士王}
+  - {type: voice, offset: 1069, length: 31, name: note, id: n2}
   - {type: variant, offset: 1072, length: 1, content: 群, WYG: 羣}
   - {type: 'kr:non-cjk', offset: 1084, content: <, id: KR4d0093_krp_004-bkkkrnonc4}
   - {type: variant, offset: 1084, length: 16, content: 折少㳺與余同載因㳺惠山覧唐處士王, WYG: ''}
@@ -640,6 +642,7 @@ markers:
   - {type: indent, offset: 1510, content: 　　　, id: KR4d0093_krp_004-bkkind20}
   - {type: substitution, offset: 1510, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19437}}
   - {type: punctuation, offset: 1517, content: (, id: KR4d0093_krp_004-bkkpn7}
+  - {type: voice, offset: 1517, length: 5, name: note, id: n3}
   - {type: substitution, offset: 1519, original: 㳺, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20160}}
   - {type: punctuation, offset: 1522, content: ), id: KR4d0093_krp_004-bkkpn8}
   - {type: 'kr:newline', offset: 1522, content: '
@@ -737,6 +740,7 @@ markers:
   - {type: indent, offset: 1786, content: 　　　, id: KR4d0093_krp_004-bkkind24}
   - {type: punctuation, offset: 1792, content: (, id: KR4d0093_krp_004-bkkpn9}
   - {type: variant, offset: 1792, length: 0, content: '', WYG: 呈辨才法師兼寄吴興蘓太守}
+  - {type: voice, offset: 1792, length: 22, name: note, id: n4}
   - {type: substitution, offset: 1795, original: 㳺, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20160}}
   - {type: substitution, offset: 1797, original: 㳺, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20160}}
   - {type: 'kr:non-cjk', offset: 1801, content: <, id: KR4d0093_krp_004-bkkkrnonc7}
@@ -1112,4 +1116,4 @@ markers:
 
       ', id: KR4d0093_krp_004-bkkkrnewl166}
   back: []
-hash: sha256:b285828c86c34e656d243e633df0393ca8867c1b1d1736d46b59bd23e8832aed
+hash: sha256:30993253c75c5227f24768e3f27a5e9f217104f7cc54caf5a5b6a7a44aea3101

@@ -281,6 +281,7 @@ markers:
   - {type: substitution, offset: 603, original: 栢, replacement: 柏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16879}}
   - {type: punctuation, offset: 605, content: (, id: KR4d0093_krp_002-bkkpn1}
   - {type: variant, offset: 605, length: 5, content: 時爲教官折, WYG: ''}
+  - {type: voice, offset: 605, length: 10, name: note, id: n1}
   - {type: substitution, offset: 606, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:non-cjk', offset: 609, content: <, id: KR4d0093_krp_002-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 610, content: t="33", id: KR4d0093_krp_002-bkkkrnonc2}
@@ -832,6 +833,7 @@ markers:
   - {type: substitution, offset: 1935, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 1938, content: (, id: KR4d0093_krp_002-bkkpn4}
   - {type: variant, offset: 1938, length: 0, content: '', WYG: 少㳺一}
+  - {type: voice, offset: 1938, length: 7, name: note, id: n2}
   - {type: substitution, offset: 1940, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: 'kr:non-cjk', offset: 1941, content: <, id: KR4d0093_krp_002-bkkkrnonc4}
   - {type: variant, offset: 1941, length: 4, content: 折少㳺一, WYG: ''}
@@ -1055,4 +1057,4 @@ markers:
 
       ', id: KR4d0093_krp_002-bkkkrnewl163}
   back: []
-hash: sha256:868f30f9a6100a403d6da5b5ade3c5d916bf132208647ba58a41ef45ff178202
+hash: sha256:844133a2b4e253109d952a1dca93c01b61acde13e197062a13c659cae1e42b51

@@ -471,6 +471,7 @@ markers:
   - {type: substitution, offset: 1122, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 1125, content: (, id: KR4d0093_krp_003-bkkpn1}
   - {type: variant, offset: 1125, length: 0, content: '', WYG: 與子瞻共坐有客饋魚扵子}
+  - {type: voice, offset: 1125, length: 22, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 1135, content: <, id: KR4d0093_krp_003-bkkkrnonc1}
   - {type: variant, offset: 1135, length: 12, content: 折與子瞻共坐有客跪魚於子, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1136, content: t="33", id: KR4d0093_krp_003-bkkkrnonc2}
@@ -1054,4 +1055,4 @@ markers:
 
       ', id: KR4d0093_krp_003-bkkkrnewl167}
   back: []
-hash: sha256:23e96db9027e7bc7eed6331dc6da41e04c11c0c9fadd4cdf85f4720506e6a9dd
+hash: sha256:a33901b19b72baa6a289a0e57bfaf7c3d520427d169bed6bf21d16a5bde92e2c
